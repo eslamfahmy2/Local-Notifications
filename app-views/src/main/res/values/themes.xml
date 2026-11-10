@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Material 3 with light/dark handled by DayNight. Dynamic color is applied in code on Android 12+. -->
+    <style name="Theme.LocalNotifications" parent="Theme.Material3.DayNight.NoActionBar" />
+</resources>
